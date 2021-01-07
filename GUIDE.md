@@ -6,6 +6,10 @@ JAMStack: Javascript APIS Markup
 - CDN is cheap!
 - Platform agnostic
 
+- Better security
+- Better performance
+- Better reliability
+
 ## Parts of the course
 
 - Vanilla JAMStack
