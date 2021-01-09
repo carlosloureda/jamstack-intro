@@ -6,6 +6,8 @@ This is the code for a Frontend Masters workshop. In this workshop, we’ll lear
 
 ### Section 1: Create a Basic JAMstack Site
 
+[branch section-1-basic-jam-site]()
+
 - Create an `index.html` with a heading and a content area
 - Use `npx serve` to load the site during development
 - Create a `styles.css` with basic styles
